@@ -6,7 +6,7 @@
 <body>
 
   <header>
-    <img src=https://pin.it/5rslP5X alt="Autovehicul în service">
+    <img src="https://pin.it/5rslP5X" alt="Autovehicul în service">
     <h1>Reparații auto la prețuri accesibile</h1>
   </header>
 
