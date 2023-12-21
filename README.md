@@ -6,7 +6,7 @@
 <body>
 
   <header>
-    <img src="https://imgur.com/IktMIZo" alt="Autovehicul în service">
+    <img src="c91a0e1b4b69bb73923f50d634ee6df7.png" alt="Autovehicul în service">
     <h1>Reparații auto la prețuri accesibile</h1>
   </header>
 
